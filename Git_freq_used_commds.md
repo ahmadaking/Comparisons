@@ -26,6 +26,6 @@ git remote remove [remote name]
 git checkout otherbranch myfile.txt
 
 ## Sync local repo with the original on GitHub 
-git remote -v
-git fetch "upstream"
-git merge "pstream"/master
+<br/> git remote -v
+<br/> git fetch "upstream"
+<br/> git merge "pstream"/master
